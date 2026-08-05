@@ -1,35 +1,38 @@
-<div style="text-align: right; margin: 10px 0;">
-  <button onclick="window.print()" style="background-color: #0056b3; color: white; padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px; cursor: pointer; box-shadow: 0 2px 4px rgba(0,0,0,0.2);">
-    🖨️ Imprimir ou baixar PDF
-  </button>
-</div>
+---
+hide:
+  - navigation
+  - toc
+---
 
-<p style="font-weight: bold; color: #d9534f; margin-top: -5px; margin-bottom: 20px;">PÚBLICO-ALVO: AGENTES DE CONTRATAÇÃO</p>
+# Como podemos ajudar você hoje?
 
-# Manual sistema Compras.gov.br - Pregão Eletrônico pela Lei nº 13.303/2016 no Novo Divulgação de Compras (Novo DC)
+Bem-vindo ao Manual do Pregão Eletrônico no Novo Divulgação de Compras (Novo DC). Escolha abaixo a etapa do processo que você deseja realizar:
 
-Agora, **empresas estatais podem realizar pregões eletrônicos ou presenciais fundamentados na Lei nº 13.303/2016 pelo Novo Divulgação de Compras (Novo DC)**, disponível no sistema Compras.gov.br.  
+<div class="grid cards" markdown>
 
-Os pregões das empresas estatais poderão ser realizados em processos previstos no Planejamento e Gerenciamento de Contratações (PGC) ou em novo processo de compra.  
+- **1. Criar Nova Contratação**
+  ---
+  Inicie um novo processo, acesse o sistema, preencha os dados básicos e defina a modalidade.
+  [Acessar esta etapa ➔](01-criar-contratacao.md)
 
-Neste tutorial, abordamos o <strong>passo a passo para publicação de um pregão eletrônico no Novo Divulgação de Compras (Novo DC) partindo de um novo processo</strong>. Se a contratação já estiver prevista no Planejamento e Gerenciamento das Contratações (PGC), [clique aqui](02-dados-basicos-da-contratacao.md) e vá direto para a segunda etapa deste tutorial.
+- **2. Configurar Itens e Benefícios**
+  ---
+  Adicione os itens pelo catálogo ou por planilha e configure os benefícios para ME/EPP.
+  [Acessar esta etapa ➔](04-itens-grupos.md)
 
+- **3. Inserir Anexos e Responsáveis**
+  ---
+  Vincule o edital, adicione artefatos digitais e defina a equipe responsável (Pregoeiro/Comissão).
+  [Acessar esta etapa ➔](05-anexos.md)
 
-!!! info "OBSERVAÇÃO"
-    Contratações no Sistema de Registro de Preços estão no manual <strong>CONTRATAÇÕES SRP</strong>.
+- **4. Publicar e Divulgar**
+  ---
+  Envie o processo para o Diário Oficial da União (DOU) e publique no PNCP.
+  [Acessar esta etapa ➔](07-divulgando.md)
 
+- **🖨️ Versão Completa**
+  ---
+  Prefere ler o manual inteiro de uma vez ou gerar um PDF? 
+  [Ver manual completo ➔](versao-impressao.md)
 
-<span style="font-size: 1.5em; font-weight: bold;">Formatos de Visualização</span>
-
-<br>
-
-Para garantir a melhor experiência de consulta e atender às diferentes necessidades de leitura, disponibilizamos a documentação em múltiplos formatos de acesso, quais sejam:
-
-* [Padrão - escolha que seção específica quer acessão](./)
-* [Página única - todo o manual em uma tela](versao-impressao.md)
-
-<div style="text-align: right; margin: 20px 0;">
-  <button onclick="window.print()" style="background-color: #0056b3; color: white; padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px; cursor: pointer; box-shadow: 0 2px 4px rgba(0,0,0,0.2);">
-    🖨️ Imprimir ou baixar PDF
-  </button>
 </div>
