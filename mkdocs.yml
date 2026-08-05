@@ -2,7 +2,8 @@ site_name: Manual Compras.gov.br - Pregão Eletrônico
 
 theme:
   name: material
-
+  language: pt-BR
+  
 markdown_extensions:
   - md_in_html
   - admonition
