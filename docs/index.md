@@ -4,9 +4,16 @@ hide:
   - toc
 ---
 
-# Como podemos ajudar você hoje?
-
-Bem-vindo ao Manual do Pregão Eletrônico no Novo Divulgação de Compras (Novo DC). Escolha abaixo a etapa do processo que você deseja realizar:
+<div class="hero-search-container">
+  <h2>Como podemos ajudar você hoje?</h2>
+  <p>Digite sua dúvida ou escolha uma das etapas abaixo:</p>
+  
+  <!-- Esta "falsa" barra de pesquisa aciona a busca oficial do MkDocs ao ser clicada -->
+  <label for="__search" class="central-search-bar">
+    <span class="search-icon">🔍</span>
+    <span class="search-placeholder">Ex: como cadastrar benefício ME/EPP...</span>
+  </label>
+</div>
 
 <div class="grid cards" markdown>
 
